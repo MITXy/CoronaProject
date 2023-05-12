@@ -38,7 +38,7 @@ The data files in the `data` directory are sourced from the World Health Organiz
 
 ## Contributing
 
-If you would like to contribute to the Corona Project, please contact the project team for more information. We welcome contributions from the community and appreciate your feedback.
+I welcome contributions and appreciate your feedback on the implementations.
 
 ## License
 
